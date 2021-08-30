@@ -1,0 +1,32 @@
+﻿  CAntenna.cpp
+  CBline.cpp
+E:\w_code\WorkBase\Project\CoreLib\CBline.cpp(356,9): warning C4101: “bl”: 未引用的局部变量
+E:\w_code\WorkBase\Project\CoreLib\CBline.cpp(571,6): warning C4101: “i”: 未引用的局部变量
+  CBroadcastEph.cpp
+E:\w_code\WorkBase\Project\CoreLib\CBroadcastEph.cpp(98,12): warning C4101: “sys”: 未引用的局部变量
+E:\w_code\WorkBase\Project\CoreLib\CBroadcastEph.cpp(98,9): warning C4101: “i”: 未引用的局部变量
+E:\w_code\WorkBase\Project\CoreLib\CBroadcastEph.cpp(295,12): warning C4101: “stat”: 未引用的局部变量
+  CCycleSlip.cpp
+  CIonosphere.cpp
+  CommonFunction.cpp
+E:\w_code\WorkBase\Project\CoreLib\CommonFunction.cpp(46,9): warning C4101: “i”: 未引用的局部变量
+E:\w_code\WorkBase\Project\CoreLib\CommonFunction.cpp(176,9): warning C4101: “i”: 未引用的局部变量
+  CRTCM.cpp
+E:\w_code\WorkBase\Project\CoreLib\CRTCM.cpp(530,8): warning C4101: “msg”: 未引用的局部变量
+E:\w_code\WorkBase\Project\CoreLib\CRTCM.cpp(667,9): warning C4101: “tow”: 未引用的局部变量
+E:\w_code\WorkBase\Project\CoreLib\CRTCM.cpp(668,51): warning C4101: “week”: 未引用的局部变量
+E:\w_code\WorkBase\Project\CoreLib\CRTCM.cpp(682,9): warning C4101: “tow”: 未引用的局部变量
+E:\w_code\WorkBase\Project\CoreLib\CRTCM.cpp(683,51): warning C4101: “week”: 未引用的局部变量
+E:\w_code\WorkBase\Project\CoreLib\CRTCM.cpp(718,6): warning C4101: “i”: 未引用的局部变量
+E:\w_code\WorkBase\Project\CoreLib\CRTCM.cpp(746,8): warning C4101: “msg”: 未引用的局部变量
+E:\w_code\WorkBase\Project\CoreLib\CRTCM.cpp(856,6): warning C4101: “i”: 未引用的局部变量
+E:\w_code\WorkBase\Project\CoreLib\CRTCM.cpp(1118,28): warning C4101: “f”: 未引用的局部变量
+  CStation.cpp
+  CTide.cpp
+  CTroposphere.cpp
+  CVRS.cpp
+  正在生成代码...
+E:\w_code\WorkBase\Project\CoreLib\CVRS.cpp(61): warning C4715: “CVRS::SelMastReferSta”: 不是所有的控件路径都返回值
+E:\w_code\WorkBase\Project\CoreLib\CRTCM.cpp(1069): warning C4715: “CRTCM::To_SigId”: 不是所有的控件路径都返回值
+E:\w_code\WorkBase\Project\CoreLib\CBline.cpp(1322): warning C4715: “CBline::InitRtkParam”: 不是所有的控件路径都返回值
+  CoreLib.vcxproj -> E:\w_code\WorkBase\Project\Debug\CoreLib.lib
